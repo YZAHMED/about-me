@@ -4,6 +4,7 @@ This is a simple one-page website about me, created as part of a deployment exer
 
 ## Live Links
 - [GitHub Pages Deployment](https://yzahmed.github.io/about-me/)
+- [InfinityFree Deployment](http://yaqoob.epizy.com/about-me/)
 
 
 ## Technologies Used
